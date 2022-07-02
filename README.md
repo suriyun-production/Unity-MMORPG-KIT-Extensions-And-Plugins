@@ -1,7 +1,5 @@
 List of extensions and plugins for MMORPG KIT projects
 
-* [UnityMultiplayerARPG_MMO](https://github.com/insthync/UnityMultiplayerARPG_MMO) - This is a repository which make "Multiplayer Action RPG Template" to be MMORPG game.
-
 ### Character Model
 * [UnityMultiplayerARPG_UMA](https://github.com/insthync/UnityMultiplayerARPG_UMA) - UMA addon for MMORPG KIT.
 * [UnityMultiplayerARPG_InvectorCharacterModel](https://github.com/insthync/UnityMultiplayerARPG_InvectorCharacterModel) - Character model which uses Invector's animations.
@@ -18,7 +16,8 @@ List of extensions and plugins for MMORPG KIT projects
 * [UnityMultiplayerARPG_2DAI](https://github.com/insthync/UnityMultiplayerARPG_2DAI) - AI implement for 2D mode, which implements A* Pathfinding Project.
 
 ### Gameplay
-* [UnityMultiplayerARPG_GuildWar](https://github.com/insthync/UnityMultiplayerARPG_GuildWar) - Guild war for MMORPG KIT.
+* [UnityMultiplayerARPG_MMO](https://github.com/insthync/UnityMultiplayerARPG_MMO) - (Included in assetstore package) This is a repository which make "Multiplayer Action RPG Template" to be MMORPG game.
+* [UnityMultiplayerARPG_GuildWar](https://github.com/insthync/UnityMultiplayerARPG_GuildWar) - (Included in assetstore package) Guild war for MMORPG KIT.
 * [UnityMultiplayerARPG_AuctionHouse](https://github.com/insthync/UnityMultiplayerARPG_AuctionHouse) - Auction house system for MMORPG KIT.
 * [mmorpg-kit-auction-house-service](https://github.com/insthync/mmorpg-kit-auction-house-service) - Auction house service for MMORPG KIT.
 * [UnityMultiplayerARPG_ShooterExtensions](https://github.com/insthync/UnityMultiplayerARPG_ShooterExtensions) - Some extensions for shooter games.
