@@ -1,4 +1,4 @@
-List of extensions and plugins for MMORPG KIT projects
+List of extensions and plugins for MMORPG KIT project
 
 ### Character Model
 * [UnityMultiplayerARPG_UMA](https://github.com/insthync/UnityMultiplayerARPG_UMA) - UMA addon for MMORPG KIT.
