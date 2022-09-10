@@ -27,9 +27,13 @@ List of extensions and plugins for MMORPG KIT project
 * [UnityMultiplayerARPG_OpsiveBT](https://github.com/insthync/UnityMultiplayerARPG_OpsiveBT) - Opsive's Behavior Designer (Behavior Trees for Everyone) integration for MMORPG KIT.
 * [UnityMultiplayerARPG_KiwiCoderBT](https://github.com/insthync/UnityMultiplayerARPG_KiwiCoderBT) - KiwiCoder's behaviour tree integration for MMORPG KIT.
 
-### Social
+### Authentication & Social
 * [MMORPGKIT_GooglePlayAuth](https://github.com/insthync/MMORPGKIT_GooglePlayAuth) - Google Play authentication integration for MMORPG KIT (http://u3d.as/1524)
 * [MMORPGKIT_FacebookAuth](https://github.com/insthync/MMORPGKIT_FacebookAuth) - Facebook authentication integration for MMORPG KIT (http://u3d.as/1524)
+* [MMORPGKIT-Reset-Password-Addon](https://github.com/GamerzDan/MMORPGKIT-Reset-Password-Addon) - About
+A addon to add PasswordReset / UpdatePassword interface to the kit
+* [MMORPGKIT-Firebase-AuthBackend](https://github.com/GamerzDan/MMORPGKIT-Firebase-AuthBackend) - Firebase Auth as a Authentication and User Management backend for MMORPGKIT for Unity
+* [MMORPGKIT-SteamAuth-Backend](https://github.com/GamerzDan/MMORPGKIT-SteamAuth-Backend) - Drag and Drop addon to use Steam for Authentication for MMORGKIT for Unity3D
 
 ### Tools
 * [UnityMultiplayerARPG_CharacterTools](https://github.com/insthync/UnityMultiplayerARPG_CharacterTools) - Collection of tools for character entity creation.
